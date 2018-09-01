@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.ramon.myfirstandroidapplication.MainActivity">
+    <item
+        android:id="@+id/action_android_studio"
+        android:orderInCategory="1"
+        android:title="@string/android_studio"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_my_first_app"
+        android:orderInCategory="2"
+        android:title="@string/my_first_app"
+        app:showAsAction="never" />
+</menu>
